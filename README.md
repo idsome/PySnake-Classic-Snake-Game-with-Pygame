@@ -22,3 +22,4 @@ PySnake is a classic arcade-style Snake Game implemented in Python using the Pyg
 5. Press 's' to adjust game speed.
 
 Enjoy the classic Snake Game with Pygame!
+you can download the game from ichio.io [here](https://idsome.itch.io/pysnake)
